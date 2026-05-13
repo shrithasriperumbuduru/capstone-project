@@ -1,1 +1,1 @@
-# 24EG105K50-Capstrone
+# 24EG105K50-Capstone
