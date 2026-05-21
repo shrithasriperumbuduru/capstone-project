@@ -29,7 +29,7 @@ app.use(
       "http://localhost:5173",
       "http://localhost:5174",
       "http://localhost:5175",
-      "https://24eg107d46-capstrone-bawsfnnk3-srishanth-03s-projects.vercel.app",
+      "https://capstone-project-blond-tau.vercel.app",
     ],
     credentials: true,
   })
