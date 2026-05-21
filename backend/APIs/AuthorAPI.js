@@ -4,7 +4,7 @@ const authorApp = exp.Router();
 import expressAsyncHandler from "express-async-handler";
 import multer from "multer";
 
-import { ArticleModel } from "../models/articleModel.js";
+import { ArticleModel } from "../models/ArticleModel.js";
 
 
 // ================= MULTER CONFIG =================
